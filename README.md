@@ -33,7 +33,7 @@ server.listen(3000, () => {
 
 ## Features
 - Minimal, fast, and easy to deploy
-- Works out-of-the-box with [better-peer-client](https://github.com/yourusername/better-peer-client) client library
+- Works out-of-the-box with [better-peer-client](https://github.com/knox26/better-peer-client) client library
 - Can be used as a standalone signaling server for any WebRTC project
 - Can be attached to your existing HTTP server (Express, etc.) to share the same port
 
@@ -41,4 +41,4 @@ server.listen(3000, () => {
 
 **Client Library**
 
-This server is designed to work seamlessly with the [better-peer-client](https://github.com/yourusername/better-peer-client)  client library. See the [better-peer-client](https://github.com/yourusername/better-peer-client)  repo for usage examples and integration.
+This server is designed to work seamlessly with the [better-peer-client](https://github.com/knox26/better-peer-client)  client library. See the [better-peer-client](https://github.com/knox26/better-peer-client)  repo for usage examples and integration.
