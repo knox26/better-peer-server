@@ -1,0 +1,21 @@
+{
+  "name": "better-peer-server",
+  "version": "0.1.0",
+  "description": "A simple, pluggable WebRTC signaling server for better-peer.",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./signaling-server": "./signaling-server.js"
+  },
+  "keywords": [
+    "webrtc",
+    "signaling",
+    "server",
+    "peer-to-peer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.2"
+  }
+}
